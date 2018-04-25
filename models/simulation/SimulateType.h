@@ -1,0 +1,15 @@
+//
+// Created by dragoon on 4/16/18.
+//
+
+#ifndef ALMOSTAGARIO_SIMULATETYPE_H
+#define ALMOSTAGARIO_SIMULATETYPE_H
+
+enum SimulateType {
+    MIN_TTF_NODETECT,
+    MIN_TTF_DETECT,
+    MAX_TTF_NODETECT,
+    MAX_TTF_DETECT
+};
+
+#endif //ALMOSTAGARIO_CHECKTYPE_H
